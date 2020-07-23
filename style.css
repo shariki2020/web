@@ -1,0 +1,10 @@
+.wrapper{
+    width: 50%;
+    margin: 0 auto;
+}
+.wrapper h3{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+    .wrapper p{
+        font-family: 'Roboto Condensed', sans-serif;
+    }
